@@ -1,0 +1,14 @@
+[
+	{
+		"id":1,
+		"name":"mat"
+	},
+	{
+		"id":2,
+		"name":"tarih"
+	},
+	{
+		"id":3,
+		"name":"coğrafya"
+	}
+]
