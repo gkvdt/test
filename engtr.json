@@ -18,109 +18,148 @@
 	{
 		"eng":"attempted",
 		"tr":"girişimde bulunmak"
-	},{
+	},
+	{
         "eng":"receiver",
-        "tr":""
-    },{
+        "tr":"alıcı"
+	},
+	{
         "eng":"dispose",
-        "tr":""
-    },{
+        "tr":"atmak"
+	},
+	{
         "eng":"has",
-        "tr":"surface"
-    },{
+        "tr":"sahip olmak"
+	},
+	{
+        "eng":"surface",
+        "tr":"yüzey"
+	},
+	{
         "eng":"behavior",
         "tr":"davranış"
-    },{
+	},
+	{
         "eng":"due",
         "tr":"vadesi dolmuş"
-	},{
+	},
+	{
         "eng":"being",
         "tr":"yapı"
-	},{
+	},
+	{
         "eng":"motion",
         "tr":"devinim"
-	},{
+	},
+	{
         "eng":"indeterminate",
         "tr":"belirsiz"
-	},{
+	},
+	{
         "eng":"tint",
         "tr":"renk tonu"
-	},{
+	},
+	{
         "eng":"dismiss",
         "tr":"bırak - son ver"
-	},{
+	},
+	{
         "eng":"guide",
         "tr":"kılavuz"
-	},{
+	},
+	{
         "eng":"build",
         "tr":"inşa etmek"
-	},{
+	},
+	{
         "eng":"brand",
         "tr":"işlemek"
-	},{
+	},
+	{
         "eng":"these",
         "tr":"bunlar"
-	},{
+	},
+	{
         "eng":"resources",
         "tr":"kaynaklar"
-	},{
+	},
+	{
         "eng":"each",
         "tr":"her biri"
-	},{
+	},
+	{
         "eng":"discrete",
         "tr":"ayrık"
-	},{
+	},
+	{
         "eng":"topic",
         "tr":"konu"
-	},{
+	},
+	{
         "eng":"through",
         "tr":"kanalıyla"
-	},{
+	},
+	{
         "eng":"process",
         "tr":"işlemek - işlem"
-	},{
+	},
+	{
         "eng":"feature",
         "tr":"özellik"
-	},{
+	},
+	{
         "eng":"exist",
         "tr":"var olmak"
-	},{
+	},
+	{
         "eng":"prefer",
         "tr":"tercih etmek"
-	},{
+	},
+	{
         "eng":"below",
         "tr":"aşağıdaki"
-	},{
+	},
+	{
         "eng":"essential",
         "tr":"esas"
-	},{
+	},
+	{
         "eng":"fundamental",
         "tr":"esas - ana"
-	},{
+	},
+	{
         "eng":"written",
         "tr":"yazılı"
-	},{
+	},
+	{
         "eng":"along",
         "tr":"boyunca"
-	},{
+	},
+	{
         "eng":"which",
         "tr":"hangi - kaçıncı"
-	},{
+	},
+	{
         "eng":"suffix",
         "tr":"sonuna eklemek"
-	},{
+	},
+	{
         "eng":"contains",
         "tr":"içerik"
-	},{
+	},
+	{
         "eng":"permission",
         "tr":"izin"
-	},{
+	},
+	{
         "eng":"overview",
         "tr":"gözden geçirmek"
-	},{
+	},
+	{
         "eng":"variety",
         "tr":"çeşit"
-	},{
+	},
+	{
         "eng":"different",
         "tr":"başka"
 	},{
