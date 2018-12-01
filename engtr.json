@@ -1,172 +1,214 @@
-[
-	{
-		"eng":"publish",
-		"tr":"yayımlamak"
+[  
+	{  
+	  "eng":"publish",
+	  "tr":"yayımlamak"
 	},
-	{
-		"eng":"progress",
-		"tr":"ilerleme"
+	{  
+	  "eng":"progress",
+	  "tr":"ilerleme"
 	},
-	{
-		"eng":"post",
-		"tr":"posta"
+	{  
+	  "eng":"post",
+	  "tr":"posta"
 	},
-	{
-		"eng":"pre",
-		"tr":"ön-önce"
+	{  
+	  "eng":"pre",
+	  "tr":"ön-önce"
 	},
-	{
-		"eng":"attempted",
-		"tr":"girişimde bulunmak"
+	{  
+	  "eng":"attempted",
+	  "tr":"girişimde bulunmak"
 	},
-	{
-        "eng":"receiver",
-        "tr":"alıcı"
+	{  
+	  "eng":"receiver",
+	  "tr":"alıcı"
 	},
-	{
-        "eng":"dispose",
-        "tr":"atmak"
+	{  
+	  "eng":"dispose",
+	  "tr":"atmak"
 	},
-	{
-        "eng":"has",
-        "tr":"sahip olmak"
+	{  
+	  "eng":"has",
+	  "tr":"sahip olmak"
 	},
-	{
-        "eng":"surface",
-        "tr":"yüzey"
+	{  
+	  "eng":"surface",
+	  "tr":"yüzey"
 	},
-	{
-        "eng":"behavior",
-        "tr":"davranış"
+	{  
+	  "eng":"behavior",
+	  "tr":"davranış"
 	},
-	{
-        "eng":"due",
-        "tr":"vadesi dolmuş"
+	{  
+	  "eng":"due",
+	  "tr":"vadesi dolmuş"
 	},
-	{
-        "eng":"being",
-        "tr":"yapı"
+	{  
+	  "eng":"being",
+	  "tr":"yapı"
 	},
-	{
-        "eng":"motion",
-        "tr":"devinim"
+	{  
+	  "eng":"motion",
+	  "tr":"devinim"
 	},
-	{
-        "eng":"indeterminate",
-        "tr":"belirsiz"
+	{  
+	  "eng":"indeterminate",
+	  "tr":"belirsiz"
 	},
-	{
-        "eng":"tint",
-        "tr":"renk tonu"
+	{  
+	  "eng":"tint",
+	  "tr":"renk tonu"
 	},
-	{
-        "eng":"dismiss",
-        "tr":"bırak - son ver"
+	{  
+	  "eng":"dismiss",
+	  "tr":"bırak - son ver"
 	},
-	{
-        "eng":"guide",
-        "tr":"kılavuz"
+	{  
+	  "eng":"guide",
+	  "tr":"kılavuz"
 	},
-	{
-        "eng":"build",
-        "tr":"inşa etmek"
+	{  
+	  "eng":"build",
+	  "tr":"inşa etmek"
 	},
-	{
-        "eng":"brand",
-        "tr":"işlemek"
+	{  
+	  "eng":"brand",
+	  "tr":"işlemek"
 	},
-	{
-        "eng":"these",
-        "tr":"bunlar"
+	{  
+	  "eng":"these",
+	  "tr":"bunlar"
 	},
-	{
-        "eng":"resources",
-        "tr":"kaynaklar"
+	{  
+	  "eng":"resources",
+	  "tr":"kaynaklar"
 	},
-	{
-        "eng":"each",
-        "tr":"her biri"
+	{  
+	  "eng":"each",
+	  "tr":"her biri"
 	},
-	{
-        "eng":"discrete",
-        "tr":"ayrık"
+	{  
+	  "eng":"discrete",
+	  "tr":"ayrık"
 	},
-	{
-        "eng":"topic",
-        "tr":"konu"
+	{  
+	  "eng":"topic",
+	  "tr":"konu"
 	},
-	{
-        "eng":"through",
-        "tr":"kanalıyla"
+	{  
+	  "eng":"through",
+	  "tr":"kanalıyla"
 	},
-	{
-        "eng":"process",
-        "tr":"işlemek - işlem"
+	{  
+	  "eng":"process",
+	  "tr":"işlemek - işlem"
 	},
-	{
-        "eng":"feature",
-        "tr":"özellik"
+	{  
+	  "eng":"feature",
+	  "tr":"özellik"
 	},
-	{
-        "eng":"exist",
-        "tr":"var olmak"
+	{  
+	  "eng":"exist",
+	  "tr":"var olmak"
 	},
-	{
-        "eng":"prefer",
-        "tr":"tercih etmek"
+	{  
+	  "eng":"prefer",
+	  "tr":"tercih etmek"
 	},
-	{
-        "eng":"below",
-        "tr":"aşağıdaki"
+	{  
+	  "eng":"below",
+	  "tr":"aşağıdaki"
 	},
-	{
-        "eng":"essential",
-        "tr":"esas"
+	{  
+	  "eng":"essential",
+	  "tr":"esas"
 	},
-	{
-        "eng":"fundamental",
-        "tr":"esas - ana"
+	{  
+	  "eng":"fundamental",
+	  "tr":"ana"
 	},
-	{
-        "eng":"written",
-        "tr":"yazılı"
+	{  
+	  "eng":"written",
+	  "tr":"yazılı"
 	},
-	{
-        "eng":"along",
-        "tr":"boyunca"
+	{  
+	  "eng":"along",
+	  "tr":"boyunca"
 	},
-	{
-        "eng":"which",
-        "tr":"hangi - kaçıncı"
+	{  
+	  "eng":"which",
+	  "tr":"hangi - kaçıncı"
 	},
-	{
-        "eng":"suffix",
-        "tr":"sonuna eklemek"
+	{  
+	  "eng":"suffix",
+	  "tr":"sonuna eklemek"
 	},
-	{
-        "eng":"contains",
-        "tr":"içerik"
+	{  
+	  "eng":"contains",
+	  "tr":"içerik"
 	},
-	{
-        "eng":"permission",
-        "tr":"izin"
+	{  
+	  "eng":"permission",
+	  "tr":"izin"
 	},
-	{
-        "eng":"overview",
-        "tr":"gözden geçirmek"
+	{  
+	  "eng":"overview",
+	  "tr":"gözden geçirmek"
 	},
-	{
-        "eng":"variety",
-        "tr":"çeşit"
+	{  
+	  "eng":"variety",
+	  "tr":"çeşit"
 	},
-	{
-        "eng":"different",
-        "tr":"başka"
-	},{
-        "eng":"adapt",
-        "tr":"uymak"
-	},{
-        "eng":"intent",
-        "tr":"niyet - amaç"
+	{  
+	  "eng":"different",
+	  "tr":"başka"
+	},
+	{  
+	  "eng":"adapt",
+	  "tr":"uymak"
+	},
+	{  
+	  "eng":"intent",
+	  "tr":"niyet - amaç"
+	},
+	{  
+	  "eng":"hash",
+	  "tr":"doğramak"
+	},
+	{  
+	  "eng":"also",
+	  "tr":"ayrıca"
+	},
+	{  
+	  "eng":"often",
+	  "tr":"sık sık"
+	},
+	{  
+	  "eng":"repeatedly",
+	  "tr":"tekrar tekrar"
+	},
+	{  
+	  "eng":"purposes",
+	  "tr":"farklı amaçlarda olmak"
+	},
+	{  
+	  "eng":"so",
+	  "tr":"böyle"
+	},
+	{  
+	  "eng":"several",
+	  "tr":"birçok"
+	},
+	{  
+	  "eng":"Paths",
+	  "tr":"yörünge"
+	},
+	{  
+	  "eng":"carefull",
+	  "tr":"dikkatli"
+	},
+	{  
+	  "eng":"above",
+	  "tr":"üzerine"
 	}
-]
+  ]
