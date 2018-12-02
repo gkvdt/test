@@ -210,5 +210,32 @@
 	{  
 	  "eng":"above",
 	  "tr":"üzerine"
-	}
-  ]
+	},{"eng":"stroke","tr":"vuruş"}
+	,{"eng":"represent","tr":"temsil etmek"}
+	,{"eng":"behavior","tr":"davranış"}
+	,{"eng":"portion","tr":"ayırmak"}
+	,{"eng":"reuse","tr":"yeniden kullanmak"}
+	,{"eng":"which","tr":"hangi"}
+	,{"eng":"own","tr":"sahip olmak"}
+	,{"eng":"has","tr":"sahip olmak"}
+	,{"eng":"while","tr":"olduğunda"}
+	,{"eng":"different ","tr":"farklı"}
+	,{"eng":"must","tr":"gerekmek -meli"}
+	,{"eng":"always","tr":"her zaman"}
+	,{"eng":"be","tr":"olmak"}
+	,{"eng":"be hosted","tr":"ağırlamak"}
+	,{"eng":"directly","tr":"direkt"}
+	,{"eng":"affected","tr":"etkilenmiş"}
+	,{"eng":"host","tr":"ev sahibi"}
+	,{"eng":"destroyed","tr":"imha olmuş"}
+	,{"eng":"However","tr":"bununla birlikte"}
+	,{"eng":"manipulate","tr":"işlemek"}
+	,{"eng":"independently","tr":"başlı başına"}
+	,{"eng":"such","tr":"bu gibi"}
+	,{"eng":"them","tr":"onlara"}
+	,{"eng":"perform","tr":"yerine getirmek"}
+	,{"eng":"transaction","tr":"işlem"}
+	,{"eng":"error occurred","tr":"hata oluştu"}
+	,{"eng":"reverse","tr":"ters"}
+	,{"eng":"backwards","tr":"geriye"}
+]
