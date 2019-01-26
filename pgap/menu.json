@@ -4,7 +4,10 @@
          "menu_title":"gelişim psikolojisi"
       },
       {
-         "menu_id":"7",
+    
+		 "menu_id":"7",
          "menu_title":"öğrenim psikolojisi"
-      }
+      },
+	  "menu_id":"15",
+	  "menu_title":"asdfasdf aasd"
    ]
