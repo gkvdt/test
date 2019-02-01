@@ -1,20 +1,14 @@
 [
-      {
-         "submenu_id":"16",
-         "menu_id":"13",
-         "submenu_title":"deneme 1",
-         "child":"0"
-      },
-      {
-         "submenu_id":"17",
-         "menu_id":"14",
-         "submenu_title":"test1",
-         "child":"0"
-      },
-      {
-         "submenu_id":"18",
-         "menu_id":"15",
-         "submenu_title":"2011",
-         "child":"0"
-      }
-   ]
+  {
+    "submenu_id": "18",
+    "menu_id": "17",
+    "submenu_title": "alt2 dolu",
+    "child": "1"
+  },
+  {
+    "submenu_id": "19",
+    "menu_id": "17",
+    "submenu_title": "alt2 bos",
+    "child": "0"
+  }
+]

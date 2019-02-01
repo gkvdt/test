@@ -1,14 +1,10 @@
-   [
-      {
-         "menu_id":"6",
-         "menu_title":"gelişim psikolojisi"
-      },
-      {
-    
-		 "menu_id":"7",
-         "menu_title":"öğrenim psikolojisi"
-      },{
-	  "menu_id":"15",
-	  "menu_title":"asdfasdf aasd"
-	  }
-   ]
+[
+  {
+    "menu_id": "9",
+    "menu_title": "menu dolu"
+  },
+  {
+    "menu_id": "10",
+    "menu_title": "menu bos"
+  }
+]

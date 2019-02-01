@@ -1,26 +1,14 @@
 [
-      {
-         "submenu_id":"13",
-         "menu_id":"6",
-         "submenu_title":"denemeler",
-         "child":"1"
-      },
-      {
-         "submenu_id":"14",
-         "menu_id":"6",
-         "submenu_title":"konu testleri",
-         "child":"1"
-      },
-      {
-         "submenu_id":"15",
-         "menu_id":"7",
-         "submenu_title":"çıkmış sorular",
-         "child":"1"
-      },
-      {
-         "submenu_id":"16",
-         "menu_id":"6",
-         "submenu_title":"çift şık",
-         "child":"0"
-      }
-   ]
+  {
+    "submenu_id": "17",
+    "menu_id": "9",
+    "submenu_title": "alt1 dolu",
+    "child": "1"
+  },
+  {
+    "submenu_id": "18",
+    "menu_id": "9",
+    "submenu_title": "alt1 bos",
+    "child": "0"
+  }
+]
