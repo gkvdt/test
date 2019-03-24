@@ -1,3 +1,14 @@
-
-
-[]
+[
+    {
+      "submenu_id": "1",
+      "menu_id": "18",
+      "submenu_title": "alt3 dolu",
+      "child": "0"
+    },
+    {
+      "submenu_id": "2",
+      "menu_id": "18",
+      "submenu_title": "alt3 bos",
+      "child": "0"
+    }
+  ]

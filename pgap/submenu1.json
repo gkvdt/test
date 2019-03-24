@@ -1,3 +1,14 @@
-
-
-[{"submenu_id":"1","menu_id":"1","submenu_title":"giri\u015f","child":"0"}]
+[
+  {
+    "submenu_id": "17",
+    "menu_id": "9",
+    "submenu_title": "alt1 dolu",
+    "child": "1"
+  },
+  {
+    "submenu_id": "18",
+    "menu_id": "9",
+    "submenu_title": "alt1 bos",
+    "child": "0"
+  }
+]
