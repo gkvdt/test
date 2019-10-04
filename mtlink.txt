@@ -1,1 +1,3 @@
-http://www.bahisanaliz8.com/iddaa-tahminleri/
+{
+"link":"http://www.bahisanaliz8.com/iddaa-tahminleri/"
+}
